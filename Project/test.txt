@@ -1,0 +1,1 @@
+[{"carduuid":"2f55a75f-770c-4db3-a5c1-970e8b369811","eventType":"enterHighway","inSection":1,"outSection":2,"carType":"Van","day":"Tuesday","hour":17}]
