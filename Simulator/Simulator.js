@@ -10,7 +10,7 @@ const misc = require('./misc')
 const carMap = new Map() // 
 
 function simulateNewCar(){
-    var randomAmoutOfCars = Math.floor(Math.random() * 8)+2
+    var randomAmoutOfCars = Math.floor(Math.random() * 20)+5
     //console.log(randomAmoutOfCars)
     for (let i =0 ; i<randomAmoutOfCars;i++)
     {
