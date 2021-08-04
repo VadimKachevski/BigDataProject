@@ -1,0 +1,28 @@
+.table {
+    /* width: 80% !important; */
+    border: 1px solid rgba(224, 224, 224, 1);
+    text-align:center !important
+}
+.ButtonsAndText{
+    text-align:center !important
+}
+.table2 {
+    /* width: 80% !important; */
+    font-size: 2rem !important;
+    font-weight: bold !important;
+}
+.leftGridText{
+    
+    transform: rotate(-90deg);
+    text-align:center !important;
+    justify-content: center;
+    font-size: 4rem !important; 
+}
+.leftGrid{
+    border: 1px solid rgba(224, 224, 224, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
